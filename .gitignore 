@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+expenses.txt
+test_expenses.txt
+.vscode/
+.DS_Store
